@@ -51,6 +51,7 @@
     margin-bottom: 0;
     font-size: 25px;
     color: #2B283A;
+    max-width: 200px;
 }
 
 .card-container .card-date{
@@ -62,5 +63,5 @@
 .card-content{
     font-size: 10.24px;
     color: #2B283A;
-    max-width: 300px;
+    width: 200px;
 }
